@@ -11,7 +11,7 @@ Recent advancements in computer vision, machine learning, and deep learning have
 ### The Need for Sign Language Recognition
 The ability to recognize sign language using computers or mobile devices can dramatically improve communication for the deaf and hard-of-hearing community. Traditional methods, such as requiring a human interpreter, can be costly, inefficient, and inaccessible, especially in everyday situations where immediate communication is required.
 
-![American Sign Language (ASL) Alphabet](path_to_your_image/ASL_alphabet.jpg)
+![American Sign Language (ASL) Alphabet](ASL.jpg)
 
 ## Key Technologies
 
